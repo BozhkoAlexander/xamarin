@@ -1,0 +1,38 @@
+﻿<Properties>
+  <AuthorInfo Name="Bozhko Alexander" Email="bozhko.inosoft@gmail.com" Copyright="BAS" Company="InoSoft International LLC" Trademark="" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example/EPLoginViewController.cs">
+    <Files>
+      <File FileName="Example/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Example/Info.plist" />
+      <File FileName="Example/EPLoginViewController.designer.cs" Line="14" Column="3" />
+      <File FileName="Example/EPLoginViewController.cs" Line="19" Column="4" />
+      <File FileName="Example/Main.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Example" expanded="True">
+            <Node name="Resources" expanded="True" selected="True">
+              <Node name="Images.xcassets" expanded="True" />
+            </Node>
+            <Node name="EPLoginViewController.cs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Example>
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="8FG9HE977V" TeamId="83ALMDSG9G" />
+  </MonoDevelop.Ide.ItemProperties.Example>
+</Properties>

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{62BA4813-04FE-4AD1-9408-AD65B589A394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BA4813-04FE-4AD1-9408-AD65B589A394}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{62BA4813-04FE-4AD1-9408-AD65B589A394}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{62BA4813-04FE-4AD1-9408-AD65B589A394}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{62BA4813-04FE-4AD1-9408-AD65B589A394}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{62BA4813-04FE-4AD1-9408-AD65B589A394}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{62BA4813-04FE-4AD1-9408-AD65B589A394}.Debug|iPhone.Build.0 = Debug|iPhone
+		{62BA4813-04FE-4AD1-9408-AD65B589A394}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{62BA4813-04FE-4AD1-9408-AD65B589A394}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{62BA4813-04FE-4AD1-9408-AD65B589A394}.Release|iPhone.ActiveCfg = Release|iPhone
+		{62BA4813-04FE-4AD1-9408-AD65B589A394}.Release|iPhone.Build.0 = Release|iPhone
+		{62BA4813-04FE-4AD1-9408-AD65B589A394}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{62BA4813-04FE-4AD1-9408-AD65B589A394}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Example\Example.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.StandardHeader = $2
+		$2.Text = 
+		$2.IncludeInNewFiles = True
+		$0.VersionControlPolicy = $3
+		$3.inheritsSet = Mono
+		$0.ChangeLogPolicy = $4
+		$4.UpdateMode = None
+		$4.MessageStyle = $5
+		$5.LineAlign = 0
+		$4.inheritsSet = Mono
+	EndGlobalSection
+EndGlobal
